@@ -65,7 +65,7 @@ footer p {
 .tea-card {
 	padding:0px 0px 0px 0px;
 	width:100%;
-	height:380px;
+	height:450px;
 	background-color:white;
 	box-shadow: 0 0 1px #909090
 }
@@ -79,10 +79,12 @@ footer p {
 
 .tea-card img {
 	padding:0px 0px 0px 0px; 
-	width:100% 
+	width:100%;
+	height:312px;
 }
 
 #tea-name {
+	text-decoration: none;
 	position: relative; 
 	top: 0px; 
 	left: 20px;
@@ -94,6 +96,7 @@ footer p {
 	top: 10px; 
 	left: 20px;
 	font-size:20px;
+	padding:0px 10% 0px 0px;
 }
 
 .article {
@@ -102,4 +105,51 @@ footer p {
 
 .article p {
 	text-align:justify;
+}
+
+.tea-page {
+	padding:20px 0px 20px 10%;
+	width:45%;
+	display: inline-block;
+
+}
+
+.tea-page p {
+	text-align:justify;
+}
+
+.tea-page-article {
+	padding:20px 7% 40px 7%;
+	background-color:white;
+	width:100%;
+	box-shadow: 0 0 1px #909090
+}
+
+.tea-page img {
+	width:100%;
+	padding:5px 5px 5px 5px;
+	background-color:white;
+	width:100%;
+	box-shadow: 0 0 1px #909090
+}
+
+#tea-page-title {
+	font-size:35px;
+	font-color:black;
+	box-shadow: 0 0 1px #909090
+}
+
+.tea-data {
+	padding:20px 0px 20px 10%;
+	width:20%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.tea-data span {
+	padding:20px 20px 20px 20px;
+	width:100%;
+	display: inline-block;
+	box-shadow: 0 0 1px #909090;
+	background-color:white;
 }
