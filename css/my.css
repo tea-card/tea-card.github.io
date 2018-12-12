@@ -16,15 +16,17 @@ header a {
 }
 
 header img {
-	padding:15px 0px 15px 170px;
+	position: absolute;
+	left:15%;
+	top:16px;
 	width:173px;
 	height:70px;
 }
 
 header span {
 	position: absolute;
-	left:40%;
-	right:13%;
+	left:41%;
+	right:12%;
 }
 
 header ul {
