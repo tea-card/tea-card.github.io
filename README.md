@@ -3,4 +3,4 @@
 ***
 小站正在开发，可以扫码关注公众号哟
 
-![茶卡先生](https://raw.githubusercontent.com/wiki/Titivillage/ImageBed/tea-card.jpg)
+![茶卡先生](image/tea-wechat.jpg)
