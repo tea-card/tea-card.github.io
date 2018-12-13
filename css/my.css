@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+* {
+    margin:0;
+    padding:0;
+}
+
 header {
 	position: relative; 
 	width: 100%; 
@@ -36,7 +41,7 @@ header ul {
 header li {
 	float:left;
 	width:16%;
-	top:20px;
+	top:33px;
 	line-height:20px;
 	text-align:center;
 	position:relative;
@@ -49,15 +54,17 @@ body {
 
 footer {
 	background-color:#2F4154;
+	width: 100%; 
+	height: 100px;
 }
 
 footer p {
-	padding:0px 0px 0px 10%;
+	padding:20px 0px 0px 10%;
 	color:#F9F9FB;
 }
 
 .box {
-	padding:0px 10px 20px 10px;
+	padding:0px 7px 20px 13px;
 	width:31.6%;
 	display: inline-block;
 }
@@ -148,7 +155,7 @@ footer p {
 
 .tea-data span {
 	padding:20px 20px 20px 20px;
-	width:100%;
+	width:83%;
 	display: inline-block;
 	box-shadow: 0 0 1px #909090;
 	background-color:white;
