@@ -10,38 +10,40 @@ header {
 	width: 100%; 
 	height: 100px;
 	background-color:#2F4154;
+	min-width: 1410px;
 }
 
 header a {
-	color: #b0e806;
-	font-size:25px; 
+	color: #b0e806;	
 	text-decoration:none;
-	padding:5px;
+	padding:8%;
 	display:inline-block;
 }
 
 header img {
 	position: absolute;
 	left:15%;
-	top:16px;
-	width:173px;
-	height:70px;
+	top:15px;
+	width:170px;
+	height:74%;
 }
 
 header span {
 	position: absolute;
 	left:41%;
-	right:12%;
+	right:0%;
 }
 
 header ul {
 	list-style:none;
+
 }
 
 header li {
 	float:left;
-	width:16%;
+	width:13%;
 	top:33px;
+	font-size:152%; 
 	line-height:20px;
 	text-align:center;
 	position:relative;
@@ -50,12 +52,14 @@ header li {
 body {
     background: #F9F9FB;
     overflow-y:scroll;
+    min-width: 1410px;
 }
 
 footer {
 	background-color:#2F4154;
 	width: 100%; 
 	height: 100px;
+	min-width: 1410px;
 }
 
 footer p {
@@ -64,8 +68,8 @@ footer p {
 }
 
 .box {
-	padding:0px 7px 20px 13px;
-	width:31.6%;
+	padding:0px 0.7% 1.5% 0.9%;
+	width:31.5%;
 	display: inline-block;
 }
 
